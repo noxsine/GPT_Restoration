@@ -7,6 +7,7 @@
 <sup>1</sup>Beijing Institute of Technology, <sup>2</sup>Australian National University  
 📧 Contact: hao.yang@bit.edu.cn  
 
+![cover](doc/example.png)
 ---
 
 ### 📜 Abstract
