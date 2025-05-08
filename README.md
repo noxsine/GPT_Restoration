@@ -17,13 +17,13 @@ Our experiments reveal that, although restoration outputs from GPT-4o are visual
 
 To address this, taking **image dehazing**, **deraining**, and **low-light enhancement** as representative case studies, we show that GPT-4o’s outputs can serve as powerful **visual priors**, substantially enhancing the performance of existing restoration networks. This study provides practical guidelines and a baseline framework to facilitate the integration of GPT-4o into future image restoration pipelines.
 
-We hope the study on GPT-4o-based restoration will accelerate innovation in the broader field of image generation. To support further research, **we release GPT-4o-restored images from over 10 widely used image restoration datasets.**
+We hope the study on GPT-4o-based restoration will accelerate innovation in the broader field of image generation. 
 
 ---
 
 ## 🗂️ Dataset Downloads
 
-To support reproducible research and further development, we provide GPT-4o-restored images for **over 10 widely used** image restoration datasets:
+To support further research, **we release GPT-4o-restored images from over 10 widely used image restoration datasets.**
 
 | Dataset Name         | Restoration Task        | GPT-4o Outputs      | Original Dataset |
 |----------------------|-------------------------|---------------------|------------------|
@@ -35,24 +35,21 @@ To support reproducible research and further development, we provide GPT-4o-rest
 | XXXX               | XXXX          | Comming soon    | [Source 🔗](XXX) |
 | XXXX               | XXXX          | Comming soon    | [Source 🔗](XXX) |
 
-> 🔍 *We will continue expanding the list with more datasets and tasks.*
 
 ---
 
-## 🖼️ Cover Page (Markdown)
+## 📚 Citation
 
-```markdown
-# GPT-4o for Image Restoration
-> Enhancing Vision Tasks via Multi-modal Generative Priors
+If you find this work useful in your research, please consider citing:
 
-![cover](assets/cover_gpt4o_restoration.jpg)
+<details>
+<summary>📖 <code>BibTeX</code></summary>
 
-**Authors**: [Your Name], [Collaborators]  
-**Affiliation**: [Your Lab or Institution]  
-📅 **Release Date**: May 2025
-
-🧠 This repository contains our evaluation of GPT-4o for image restoration tasks, dataset outputs, baseline framework, and visual priors.
-
-📂 `datasets/` — GPT-4o outputs  
-📊 `results/` — Evaluation metrics and plots  
-🧪 `baseline/` — Code for baseline model integration  
+```bibtex
+@misc{yang2025gpt4o,
+  title     = {A Preliminary Study for GPT-4o on Image Restoration},
+  author    = {Hao Yang and Yan Yang and Ruikun Zhang and Liyuan Pan},
+  year      = {2025},
+  note      = {Dataset and code available at https://github.com/your-repo-link}
+}
+```
