@@ -39,6 +39,14 @@ To support further research, **we release GPT-4o-restored images from over 10 wi
 
 ---
 
+## 💡 Request Additional Datasets
+
+We aim to continuously expand our dataset coverage.  
+If you are interested in seeing **GPT-4o-restored outputs** for a specific dataset that is not currently listed, please feel free to **[open an issue](https://github.com/your-repo-link/issues)** on our GitHub repository.  
+
+We actively monitor requests and will **consider adding** commonly requested datasets in future releases.
+---
+
 ## 📚 Citation
 
 If you find this work useful in your research, please consider citing:
