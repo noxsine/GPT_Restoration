@@ -1,6 +1,6 @@
 ## 🧠 GPT-4o for Image Restoration
 
-### Systematic Evaluation of GPT-4o's Visual Capabilities in Real-World Image Restoration Tasks
+### A Preliminary Study for GPT-4o on Image Restoration
 
 ### 👥 Authors  
 **Hao Yang<sup>1</sup>**, **Yan Yang<sup>2</sup>**, **Ruikun Zhang<sup>1</sup>**, **Liyuan Pan<sup>1</sup>**  
