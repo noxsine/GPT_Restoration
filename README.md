@@ -41,10 +41,6 @@ To support further research, **we release GPT-4o-restored images from over 10 wi
 ## 📚 Citation
 
 If you find this work useful in your research, please consider citing:
-
-<details>
-<summary>📖 <code>BibTeX</code></summary>
-
 ```bibtex
 @misc{yang2025gpt4o,
   title     = {A Preliminary Study for GPT-4o on Image Restoration},
