@@ -6,6 +6,7 @@
 **Hao Yang<sup>1</sup>**, **Yan Yang<sup>2</sup>**, **Ruikun Zhang<sup>1</sup>**, **Liyuan Pan<sup>1</sup>**  
 <sup>1</sup>Beijing Institute of Technology, <sup>2</sup>Australian National University  
 📧 Contact: hao.yang@bit.edu.cn  
+📄 [arXiv](xxx)
 
 ![cover](doc/example.png)
 ---
