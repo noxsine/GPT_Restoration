@@ -30,7 +30,7 @@ To support further research, **we release GPT-4o-restored images from over 10 wi
 |----------------------|-------------------------|---------------------|------------------|
 | O-Haze | Image Dehazing        | [Download 🔗](#)     | [Source 🔗](???) |
 | Rain800            | Image Deraining         | [Download 🔗](#)     | [Source 🔗](???) |
-| LOL (Low-Light)      | Low-Light Enhancement   | [Download 🔗](#)     | [Source 🔗](???) |
+| LOL       | Low-Light Enhancement   | [Download 🔗](#)     | [Source 🔗](???) |
 | XXXX               | XXXX          | Comming soon    | [Source 🔗](XXX) |
 | XXXX               | XXXX          | Comming soon    | [Source 🔗](XXX) |
 | XXXX               | XXXX          | Comming soon    | [Source 🔗](XXX) |
