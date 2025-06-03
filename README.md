@@ -6,6 +6,8 @@
 **Hao Yang<sup>1</sup>**, **Yan Yang<sup>2</sup>**, **Ruikun Zhang<sup>1</sup>**, **Liyuan Pan<sup>1</sup>**  
 <sup>1</sup>Beijing Institute of Technology, <sup>2</sup>Australian National University   
 📄 [arXiv](https://www.arxiv.org/abs/2505.05621)
+📄 [Huggingface_page](https://huggingface.co/papers/2505.05621)
+📦 [Dataset](https://huggingface.co/datasets/freyrigg/GPT-4o-Restore)
 
 ![cover](doc/example.png)
 ---
