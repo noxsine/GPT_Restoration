@@ -34,11 +34,8 @@ To support further research, **we release GPT-4o-restored images from widely use
 | Rain800            | Image Deraining         | [Download 🔗](https://www.dropbox.com/scl/fi/hnqkzyqek5mx460olyo2v/Rain800.zip?rlkey=a8zsdl4lh512xbvy7nyd6vkp4&st=9sq8fb1t&dl=0)     | [Source 🔗](https://github.com/hezhangsprinter/ID-CGAN) |
 | LOL       | Low-Light Enhancement   | [Download 🔗](https://www.dropbox.com/scl/fi/tofjd6ewgm838ydxs75k5/LOL.zip?rlkey=ns02w0o3238unpi1sguxtavp6&st=clcz2bco&dl=0)     | [Source 🔗](https://daooshee.github.io/BMVC2018website/) |
 | RainDrop               | Raindrop Removal          | [Download 🔗](https://huggingface.co/datasets/freyrigg/GPT-4o-Restore/tree/main)    | [Source 🔗](https://github.com/rui1996/DeRaindrop) |
-| ISTD               | Shadow Removal          | Comming soon    | [Source 🔗](https://github.com/DeepInsight-PCALab/ST-CGAN) |
 | UIEB               | UnderWater Image Enhancement          | [Download 🔗](https://huggingface.co/datasets/freyrigg/GPT-4o-Restore/tree/main)    | [Source 🔗](https://github.com/Li-Chongyi/Water-Net_Code) |
-| GoPro              | Deblurring          | Comming soon    | [Source 🔗](https://seungjunnah.github.io/Datasets/gopro.html) |
 | Nature20              | Reflection Removal          | [Download 🔗](https://huggingface.co/datasets/freyrigg/GPT-4o-Restore/tree/main)    | [Source 🔗](https://github.com/JHL-HUST/IBCLN) |
-| DPDD              | Deblurring          | Comming soon    | [Source 🔗](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel) |
 
 
 ---
