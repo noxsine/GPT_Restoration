@@ -1,6 +1,6 @@
 ## 🧠 GPT-4o for Image Restoration
 
-### A Preliminary Study for GPT-4o on Image Restoration
+### A Preliminary Study on GPT-Image Generation Model for Image Restoration
 
 ### 👥 Authors  
 **Hao Yang<sup>1</sup>**, **Yan Yang<sup>2</sup>**, **Ruikun Zhang<sup>1</sup>**, **Liyuan Pan<sup>1</sup>**  
@@ -26,7 +26,7 @@ We hope the study on GPT-4o-based restoration will accelerate innovation in the 
 
 ## 🗂️ Dataset Downloads
 
-To support further research, **we release GPT-4o-restored images from widely used image restoration datasets.**
+To support further research, **we release GPT-restored images from widely used image restoration datasets.**
 
 | Dataset Name         | Restoration Task        | GPT-4o Outputs      | Original Dataset |
 |----------------------|-------------------------|---------------------|------------------|
