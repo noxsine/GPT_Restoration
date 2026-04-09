@@ -50,8 +50,8 @@ If you are interested in seeing **GPT-4o-restored outputs** for a specific datas
 
 If you find this work useful in your research, please consider citing:
 ```bibtex
-@misc{yang2025preliminarystudygpt4oimage,
-      title={A Preliminary Study for GPT-4o on Image Restoration}, 
+@misc{yang2025preliminarystudygptimagegeneration,
+      title={A Preliminary Study on GPT-Image Generation Model for Image Restoration}, 
       author={Hao Yang and Yan Yang and Ruikun Zhang and Liyuan Pan},
       year={2025},
       eprint={2505.05621},
@@ -59,4 +59,5 @@ If you find this work useful in your research, please consider citing:
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2505.05621}, 
 }
+
 ```
