@@ -1,6 +1,6 @@
 ## 🧠 GPT-4o for Image Restoration
 
-### A Preliminary Study on GPT-Image Generation Model for Image Restoration
+### A Preliminary Study on GPT-Image Generation Model for Image Restoration (ICME 2026)
 
 ### 👥 Authors  
 **Hao Yang<sup>1</sup>**, **Yan Yang<sup>2</sup>**, **Ruikun Zhang<sup>1</sup>**, **Liyuan Pan<sup>1</sup>**  
